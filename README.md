@@ -2,6 +2,8 @@
 
 A modern interface for interacting with locally running language models through Ollama.
 
+![Local Chatbot Screenshot](./public/screenshot.png)
+
 ## Usage
 
 ```bash
