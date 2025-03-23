@@ -28,7 +28,7 @@ UI available at [http://localhost:3000](http://localhost:3000) (or another port 
 ## Configuration
 
 Environment variables (`.env`):
-- `NEXT_PUBLIC_DEFAULT_MODEL`: default is 'llama3.2:1b'
+- `NEXT_PUBLIC_DEFAULT_MODEL`: default is `llama3.2:1b`
 - `NEXT_PUBLIC_OLLAMA_BASE_URL`: default is `http://localhost:11434`
 
 ## License
